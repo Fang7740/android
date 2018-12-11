@@ -1,0 +1,16 @@
+.\objects\main.o: C\MAIN.c
+.\objects\main.o: E:\work\MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\main.o: .\UP\core_cm3.h
+.\objects\main.o: E:\work\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: E:\work\MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
+.\objects\main.o: .\UP\stm32f10x_conf.h
+.\objects\main.o: .\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\main.o: E:\work\MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\main.o: .\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\main.o: .\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\main.o: .\STM32F10x_FWLib\inc\misc.h
+.\objects\main.o: E:\work\MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: .\H\delay.h
+.\objects\main.o: .\H\sys.h
+.\objects\main.o: .\H\ADC.H
+.\objects\main.o: .\H\stmflash.h

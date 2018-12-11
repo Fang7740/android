@@ -1,0 +1,14 @@
+.\objects\adc.o: USER\ADC.c
+.\objects\adc.o: E:\work\MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\adc.o: .\UP\core_cm3.h
+.\objects\adc.o: E:\work\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\adc.o: E:\work\MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
+.\objects\adc.o: .\UP\stm32f10x_conf.h
+.\objects\adc.o: .\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\adc.o: E:\work\MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\adc.o: .\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\adc.o: .\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\adc.o: .\STM32F10x_FWLib\inc\misc.h
+.\objects\adc.o: .\STM32F10x_FWLib\inc\stm32f10x_dma.h
+.\objects\adc.o: .\STM32F10x_FWLib\inc\stm32f10x_adc.h
+.\objects\adc.o: .\H\ADC.H

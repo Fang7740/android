@@ -1,0 +1,17 @@
+.\objects\tim3.o: C\TIM3.c
+.\objects\tim3.o: .\LIB\stm32f10x.h
+.\objects\tim3.o: .\LIB\core_cm3.h
+.\objects\tim3.o: G:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tim3.o: .\LIB\system_stm32f10x.h
+.\objects\tim3.o: .\LIB\stm32f10x_conf.h
+.\objects\tim3.o: .\LIB\stm32f10x_adc.h
+.\objects\tim3.o: .\LIB\stm32f10x.h
+.\objects\tim3.o: .\LIB\stm32f10x_dma.h
+.\objects\tim3.o: .\LIB\stm32f10x_flash.h
+.\objects\tim3.o: .\LIB\stm32f10x_gpio.h
+.\objects\tim3.o: .\LIB\stm32f10x_i2c.h
+.\objects\tim3.o: .\LIB\stm32f10x_rcc.h
+.\objects\tim3.o: .\LIB\stm32f10x_spi.h
+.\objects\tim3.o: .\LIB\stm32f10x_tim.h
+.\objects\tim3.o: .\LIB\stm32f10x_usart.h
+.\objects\tim3.o: .\LIB\misc.h

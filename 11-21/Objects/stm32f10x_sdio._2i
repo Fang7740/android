@@ -1,0 +1,6 @@
+--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\C -I .\H -I .\Objects -I .\Listings -I .\UP -I .\STM32F10x_FWLib\inc -I .\STM32F10x_FWLib\src
+-I.\RTE\_Target_1
+-IE:\work\MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include
+-IE:\work\MDK\ARM\CMSIS\Include
+-D__UVISION_VERSION="525" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER
+-o .\objects\stm32f10x_sdio.o --omf_browse .\objects\stm32f10x_sdio.crf --depend .\objects\stm32f10x_sdio.d --feedback ".\Objects\nuo.fed" "STM32F10x_FWLib\src\stm32f10x_sdio.c"
